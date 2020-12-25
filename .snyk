@@ -26,12 +26,28 @@ patch:
     - humanize-ms > ms:
         patched: '2020-12-23T21:53:23.852Z'
   'npm:debug:20170905':
-    - tap > tap-mocha-reporter > debug:
-        patched: '2020-12-25T20:31:11.464Z'
-    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
-        patched: '2020-12-25T20:31:11.464Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > snapdragon > debug:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > braces > snapdragon > debug:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > expand-brackets > debug:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2020-12-25T20:32:16.307Z'
   'npm:ms:20170412':
-    - tap > tap-mocha-reporter > debug > ms:
-        patched: '2020-12-25T20:31:11.464Z'
-    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug > ms:
-        patched: '2020-12-25T20:31:11.464Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > snapdragon > debug > ms:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > braces > snapdragon > debug > ms:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > snapdragon > debug > ms:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug > ms:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > expand-brackets > debug > ms:
+        patched: '2020-12-25T20:32:16.307Z'
+    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug > ms:
+        patched: '2020-12-25T20:32:16.307Z'
